@@ -1,0 +1,59 @@
+h1{
+    color: black;
+    background-color: #D3D3D3;
+    font-size: 50px;
+    font-family: Georgia, sans-serif;
+    text-align: center;
+    width: 100%
+}
+
+h2{
+    font-size: 32px;
+    font-family: Georgia;
+    color: #A9A9A9;
+    text-align: center;
+    width: 100%;
+}
+
+body{
+    background-color: #D3D3D3;
+}
+
+ul{
+    font-size: 28px;
+    color: black;
+    
+}
+
+li{
+    display: inline;
+    font-family: Georgia;
+    color: black;;
+}
+header{
+    display: center;
+}
+
+section{
+    width: 100%;
+    display: center;
+}
+
+p{
+    font-size: 24px;
+    text-align: center;
+}
+
+img{
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    padding: 10px;
+}
+
+div{
+    text-align: center;
+}
+
+
+
